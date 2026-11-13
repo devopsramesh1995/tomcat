@@ -1,3 +1,52 @@
+setup git locally
+github account
+git import/forke
+git clone 
+auth from git to github
+git pull
+git push
+
+git status
+git add.
+git commit -m "msg"
+git push    // git push origin branch
+
+git reset filename
+
+
+git branchs
+PR for branches
+merge the branches
+
+gitignore
+
+git conflict
+
+==========================================
+git revert
+git log
+cherrypick
+stash
+.....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
