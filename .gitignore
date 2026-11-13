@@ -32,9 +32,9 @@ mvn.properties
 .idea
 .local
 .pmd
-.project
+*.project
 .sdkmanrc
-.settings
+*.settings
 .vscode
 *.asc
 *.iml
