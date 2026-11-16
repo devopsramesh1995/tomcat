@@ -1,33 +1,48 @@
 setup git locally
 github account
 git import/forke
-git clone 
+**git clone **
 auth from git to github
-git pull
+**git pull
 git push
-
-git status
-git add.
+**
+**git status**
+**git add.
 git commit -m "msg"
-git push    // git push origin branch
+git push**    // git push origin branch
 
 git reset filename
+git revert commitid
 
 
-git branchs
+**git branchs
 PR for branches
-merge the branches
+merge the branches**
 
-gitignore
+**gitignore**
 
 git conflict
 
-==========================================
-git revert
-git log
-cherrypick
-stash
-.....
+
+
+**git log
+git log --oneline**
+
+git cherry-pick commitid
+git stash
+git stash apply
+
+diff b/w 
+
+**pull/push
+fetch/pull
+clone/pull
+revert/reset**
+
+git diff <branch> <branch>
+git diff <commitid> <commitid>
+
+
 
 
 
